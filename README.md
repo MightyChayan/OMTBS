@@ -1,7 +1,9 @@
 # ScreenHunt
 Online Movie Ticket Booking System Website
-Authors - Chayan Maity
-          Mafyul Islam
-          Angshuman Banerjee
-          Biswajit Singh
+<br>
+Authors - Chayan Maity <br>
+          Mafyul Islam <br>
+          Angshuman Banerjee <br>
+          Biswajit Singh <br>
+          
           
